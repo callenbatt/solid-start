@@ -16,8 +16,11 @@
     "vite": "^4.1.4"
   },
   "dependencies": {
+    "@hope-ui/core": "^1.0.0-next.11",
     "@solidjs/meta": "^0.28.2",
     "@solidjs/router": "^0.7.0",
+    "@stitches/core": "^1.2.8",
+    "clsx": "^1.2.1",
     "solid-js": "^1.6.11",
     "solid-start": "^0.2.23",
     "undici": "^5.15.1"
