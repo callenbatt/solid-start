@@ -36,7 +36,7 @@ export default function Root() {
             <ErrorBoundary>
               <A href="/">Index</A>
               <A href="/about">About</A>
-              <A href="https://cdn.chrisbatt.dev/resume_2023.pdf">Resume</A>
+              <A href="/resume">Resume</A>
               <Routes>
                 <FileRoutes />
               </Routes>
